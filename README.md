@@ -2,8 +2,8 @@
 <h3 align="left">A student</h3>
 
 - 🔭 I’m currently working on [BPMC](https://github.com/Kapetmates/BPMC.git)
-
 - 📫 How to reach me **rmmoleno1@gmail.com**
+- 🔭 I’m currently working on [DWE Project](https://github.com/JohnnyCodeJourney/DWE_Project.git)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
