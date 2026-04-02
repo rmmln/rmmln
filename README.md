@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm Robert</h1>
 <h3 align="left">A student</h3>
 
-- 🔭 I’m currently working on [BPMC](https://github.com/Kapetmates/BPMC.git) & [DWE Project](https://github.com/JohnnyCodeJourney/DWE_Project.git)
+- 🔭 I’m currently working on [DWE Project](https://github.com/JohnnyCodeJourney/DWE_Project.git)
 - 📫 How to reach me **rmmoleno1@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
