@@ -49,15 +49,10 @@
 <h3 align="center">📊 GitHub Stats</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rmmln&show_icons=true&theme=tokyonight" />
-  <br/>
+ 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rmmln&theme=tokyonight" />
 </p>
 
 ---
 
-<h3 align="center">🔥 Activity Graph</h3>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rmmln&theme=tokyo-night" />
-</p>
