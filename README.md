@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Robert</h1>
-<h3 align="center">Exploring Flutter</h3>
+<h3 align="center">Aspiring UI/UX Designer</h3>
 
 <p align="center">
   🔭 Currently working on <a href="https://github.com/JohnnyCodeJourney/DWE_Project.git"><b>DWE Project</b></a><br>
